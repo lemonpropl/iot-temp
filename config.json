@@ -1,0 +1,10 @@
+{
+    "port": "3000",
+    "eventHubName": "iot-test-eventhub",
+    "ehConnString": "Endpoint=sb://iot-test-esp.servicebus.windows.net/;SharedAccessKeyName=readwrite;SharedAccessKey=MiUs41x67mFRKkHIHuINRkmneMkwgvIZprMVuQv9Y1I=;EntityPath=iot-test-eventhub",
+    "deviceConnString": "HostName=cesanta2-1.azure-devices.net;DeviceId=esp8266_3D55F8;SharedAccessKey=lpSWaAWvm069maWYr94CBCXjHhchceXRJhnCkX/+tkw=",
+    "iotHubConnString": "HostName=cesanta2-1.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=0nkTqbu1WUOPzbwD4YwuguuyX8WgKfsqTIvEz/b4qCw=",
+    "storageAcountName": "iottestaccount",
+    "storageAccountKey": "kjuwwoYUujINEiL+4lSALDSwF3u9LGB+YY64litKyDVH2I041f4o4vlUMGm7ffQI/PrsgIsXPu4YkVHuD3nyzQ==",
+    "storageTable": "TemperatureRecords"
+} 
