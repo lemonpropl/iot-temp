@@ -1,5 +1,5 @@
 {
-    "port": "3000",
+    "port": "80",
     "eventHubName": "iot-test-eventhub",
     "ehConnString": "Endpoint=sb://iot-test-esp.servicebus.windows.net/;SharedAccessKeyName=readwrite;SharedAccessKey=MiUs41x67mFRKkHIHuINRkmneMkwgvIZprMVuQv9Y1I=;EntityPath=iot-test-eventhub",
     "deviceConnString": "HostName=cesanta2-1.azure-devices.net;DeviceId=esp8266_3D55F8;SharedAccessKey=lpSWaAWvm069maWYr94CBCXjHhchceXRJhnCkX/+tkw=",
